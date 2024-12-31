@@ -11,7 +11,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@types/node": "^18.11.3",
+    "@types/node": "^22.10.1",
     "axios": "file:../../.."
   },
   "devDependencies": {
